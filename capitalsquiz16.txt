@@ -1,0 +1,86 @@
+1.D
+2.D
+3.A
+4.D
+5.D
+6.B
+7.A
+8.D
+9.B
+10.C
+11.C
+12.B
+Yi–â‘è”Ô†16j
+
+1. ŒQ”nŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ‚³‚¢‚½‚ÜŽs
+B. •Ÿ“‡Žs
+C. “Œ‹ž
+D. ‘O‹´Žs
+
+2. é‹ÊŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ‰F“s‹{Žs
+B. •Ÿ“‡Žs
+C. å‘äŽs
+D. ‚³‚¢‚½‚ÜŽs
+
+3. ˆïéŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. …ŒËŽs
+B. ŽRŒ`Žs
+C. •Ÿ“‡Žs
+D. ·‰ªŽs
+
+4. •Ÿ“‡Œ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ŽD–yŽs
+B. H“cŽs
+C. ÂXŽs
+D. •Ÿ“‡Žs
+
+5. ÂXŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ‘O‹´Žs
+B. ‰F“s‹{Žs
+C. •Ÿ“‡Žs
+D. ÂXŽs
+
+6. –kŠC“¹‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. H“cŽs
+B. ŽD–yŽs
+C. ·‰ªŽs
+D. ‚³‚¢‚½‚ÜŽs
+
+7. H“cŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. H“cŽs
+B. •Ÿ“‡Žs
+C. å‘äŽs
+D. ‚³‚¢‚½‚ÜŽs
+
+8. ‹{éŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ŽRŒ`Žs
+B. ‚³‚¢‚½‚ÜŽs
+C. ‰F“s‹{Žs
+D. å‘äŽs
+
+9. ŽRŒ`Œ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. H“cŽs
+B. ŽRŒ`Žs
+C. ·‰ªŽs
+D. ‘O‹´Žs
+
+10. ŠâŽèŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ‰F“s‹{Žs
+B. ŽRŒ`Žs
+C. ·‰ªŽs
+D. å‘äŽs
+
+11. “Œ‹ž“s‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. ·‰ªŽs
+B. ‰F“s‹{Žs
+C. “Œ‹ž
+D. H“cŽs
+
+12. “È–ØŒ§‚ÌŒ§’¡ŠÝ’n‚ÍH
+A. …ŒËŽs
+B. ‰F“s‹{Žs
+C. •Ÿ“‡Žs
+D. ·‰ªŽs
+
